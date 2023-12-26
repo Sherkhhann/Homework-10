@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+}
+form{
+    width: 40%;
+    margin: auto;
+    background-color: #356A86;
+    padding: 30px;
+    position: relative;top: 40px;
+}
+label,{
+    padding: 10px;
+}
+input{
+    margin: 10px;
+}
+.r1{
+    display: flex;
+}
+label, legend, fieldset{
+    color: white;
+}
+.av{
+    width: 40px;
+    height: 20px;
+}
+.av1{
+    width: 40px;
+    height: 20px; 
+}
+.main{
+    padding-left: 40px;
+}
